@@ -1,10 +1,10 @@
 import 'package:cartify/core/constants/app_assets.dart';
-import 'package:cartify/core/constants/app_colors.dart';
 import 'package:cartify/core/constants/app_globals.dart';
 import 'package:cartify/core/extentions/size_extension.dart';
 import 'package:cartify/core/managers/text_style_manager.dart';
 import 'package:cartify/core/utils/custom_app_bar.dart';
 import 'package:cartify/core/utils/custom_image.dart';
+import 'package:cartify/core/utils/error_widget.dart';
 import 'package:cartify/data/models/product_model.dart';
 import 'package:cartify/data/repositories/categories_repository.dart';
 import 'package:cartify/data/repositories/products_repository.dart';
@@ -53,21 +53,8 @@ class _HomeBody extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     if (provider.hasError) {
-      return Center(
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            const Text(
-              'something went wrong',
-              style: TextStyle(color: AppColors.textSecondary),
-            ),
-            const SizedBox(height: 12),
-            ElevatedButton(
-              onPressed: provider.fetchInitialData,
-              child: const Text('Try again'),
-            ),
-          ],
-        ),
+      return CustomErrorWidget(
+        onRetry: provider.fetchInitialData,
       );
     }
 
@@ -128,3 +115,4 @@ class _HomeBody extends StatelessWidget {
     return [createItem(), createItem(), createItem(), createItem()];
   }
 }
+
