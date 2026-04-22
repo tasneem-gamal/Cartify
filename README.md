@@ -11,6 +11,8 @@ Cartify is a Flutter e-commerce demo application that fetches products from the 
   <br/>
   <img src="https://github.com/user-attachments/assets/000218ff-44d4-4a95-8f85-13cb0af7f025" width="250"/>
   <img src="https://github.com/user-attachments/assets/a63abaf8-72cf-4e16-862f-596cd2146573" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b6a6bd40-627e-4a2f-a037-cfe58acc0e15" width="250"/>
+
 </p>
 
 ## Project Overview
