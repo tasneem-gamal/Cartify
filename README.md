@@ -2,6 +2,16 @@
 
 Cartify is a Flutter e-commerce demo application that fetches products from the EscuelaJS fake API and displays them in a responsive product grid.
 
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/splash.png" width="200" alt="Splash Screen"/>
+  <img src="screenshots/loading.png" width="200" alt="Loading State"/>
+  <img src="screenshots/products.png" width="200" alt="Product Listing"/>
+  <img src="screenshots/category_filter.png" width="200" alt="Category Filter"/>
+  <img src="screenshots/empty_state.png" width="200" alt="Empty State"/>
+</div>
+
 ## Project Overview
 
 ### Core Features
