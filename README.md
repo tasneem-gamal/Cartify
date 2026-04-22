@@ -4,13 +4,16 @@ Cartify is a Flutter e-commerce demo application that fetches products from the 
 
 ## Screenshots
 
-<div align="center">
-  <img src="screenshots/splash.png" width="200" alt="Splash Screen"/>
-  <img src="screenshots/loading.png" width="200" alt="Loading State"/>
-  <img src="screenshots/products.png" width="200" alt="Product Listing"/>
-  <img src="screenshots/category_filter.png" width="200" alt="Category Filter"/>
-  <img src="screenshots/empty_state.png" width="200" alt="Empty State"/>
-</div>
+<center>
+  <p float="left">
+  <img src="https://github.com/user-attachments/assets/c3da5fe6-17cf-40df-80c5-add9090ebf76" width="300" height="616"> 
+<img src="https://github.com/user-attachments/assets/e5dbe2f2-ea67-4a58-852a-73344d5782e0" width="300" height="616">
+<img src="https://github.com/user-attachments/assets/f8741749-19e4-4211-9cc0-93507e0ffef6" width="300" height="616">
+</p>
+<p float="left">
+<img src="https://github.com/user-attachments/assets/000218ff-44d4-4a95-8f85-13cb0af7f025" width="300" height="616">
+<img src="https://github.com/user-attachments/assets/a63abaf8-72cf-4e16-862f-596cd2146573" width="300" height="616">
+</center>
 
 ## Project Overview
 
