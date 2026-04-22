@@ -4,18 +4,14 @@ Cartify is a Flutter e-commerce demo application that fetches products from the 
 
 ## Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c3da5fe6-17cf-40df-80c5-add9090ebf76" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e5dbe2f2-ea67-4a58-852a-73344d5782e0" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f8741749-19e4-4211-9cc0-93507e0ffef6" width="250"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/000218ff-44d4-4a95-8f85-13cb0af7f025" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/a63abaf8-72cf-4e16-862f-596cd2146573" width="250"/></td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c3da5fe6-17cf-40df-80c5-add9090ebf76" width="250"/>
+  <img src="https://github.com/user-attachments/assets/e5dbe2f2-ea67-4a58-852a-73344d5782e0" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f8741749-19e4-4211-9cc0-93507e0ffef6" width="250"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/000218ff-44d4-4a95-8f85-13cb0af7f025" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a63abaf8-72cf-4e16-862f-596cd2146573" width="250"/>
+</p>
 
 ## Project Overview
 
